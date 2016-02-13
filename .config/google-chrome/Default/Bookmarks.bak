@@ -1,0 +1,311 @@
+{
+   "checksum": "a156c2bff6e422c95fea46c90eb758d2",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13044813004011060",
+            "id": "8",
+            "meta_info": {
+               "stars.flags": "6",
+               "stars.id": "ssc_af96c96245c628de",
+               "stars.imageData": "Cg5nY29BZnFsX0F5SXI2TRJPCkdodHRwOi8vd3d3LnRhbmdvd2l0aGRqYW5nby5jb20vYm9vay9faW1hZ2VzL3JhbmdvLWNhdGVnb3JpZXMtc2ltcGxlLnBuZxDBAhidARpjCltodHRwOi8vdDEuZ3N0YXRpYy5jb20vaW1hZ2VzP3E9dGJuOkFOZDlHY1FIQlAwQUVlU3ZtdGFJZHVJaFQ4MVhqS1hsem94RFU4bVhLTWNPYkFzZVprRksybTV3EMECGJ0BIh8IARDBAhidASDnJ0IGEgSJNW8ASgppbWFnZS9qcGVn",
+               "stars.pageData": "Ig5hSWw0OFpTOVlUemwtTQ==",
+               "stars.version": "sync.server.Chrome40"
+            },
+            "name": "6. Models, Templates and Views — How to Tango with Django",
+            "type": "url",
+            "url": "http://www.tangowithdjango.com/book/chapters/models_templates.html"
+         }, {
+            "date_added": "13067283553828000",
+            "id": "9",
+            "meta_info": {
+               "stars.id": "ssc_5abcb56bf903da68",
+               "stars.imageData": "Cg5FeXp2SjJrRW4yUUthTRI3Ci9odHRwOi8vaS55dGltZy5jb20vdmkvUjRhalEtZm9qMlEvbXFkZWZhdWx0LmpwZxCAAhiQARpjCltodHRwOi8vdDMuZ3N0YXRpYy5jb20vaW1hZ2VzP3E9dGJuOkFOZDlHY1FmN2MyOGVPamV0d2hrMUNudGJzU0RQRUhiV092Y1E1Q3RrckFvSEx0WjhPRDRGeE5iEIACGJABIhAIARCAAhiQAUIGEgSWBXxiKL/6yqnU1MwC",
+               "stars.isSynced": "true",
+               "stars.pageData": "Ig52elA2d3ViUVdKcjd1TQ==",
+               "stars.type": "2"
+            },
+            "name": "YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/"
+         }, {
+            "children": [ {
+               "date_added": "13067283575994629",
+               "id": "17",
+               "meta_info": {
+                  "stars.flags": "5",
+                  "stars.id": "ssc_cd737fc9510949c9",
+                  "stars.version": "sync.server.Chrome40"
+               },
+               "name": "EE320Assignment1 (3).pdf",
+               "type": "url",
+               "url": "file:///Users/rossmcpherson/Downloads/EE320Assignment1%20(3).pdf"
+            }, {
+               "date_added": "13067283575995350",
+               "id": "18",
+               "meta_info": {
+                  "stars.flags": "5",
+                  "stars.id": "ssc_30aeca54295f6949",
+                  "stars.version": "sync.server.Chrome40"
+               },
+               "name": "The Best Way to Learn JavaScript - Tuts+ Code Tutorial",
+               "type": "url",
+               "url": "http://code.tutsplus.com/tutorials/the-best-way-to-learn-javascript--net-21954"
+            }, {
+               "date_added": "13067283575995964",
+               "id": "19",
+               "meta_info": {
+                  "stars.id": "ssc_a7058cc73b1113fb",
+                  "stars.imageData": "EmcKYGh0dHA6Ly9jZG4tcHJvZHVjdGlvbi5jb2RlY2FkZW15LmNvbS9hc3NldHMvbG9nby9sb2dvLS10ZWFsLWQxMGIyMWE0NWI4NDM3OWYxODRhYTc0ZmJkMTlhYjhjLnN2ZxCDARgc",
+                  "stars.pageData": "Eh5UaW1lIHRvIGJlY29tZSBhIGNvZGluZyBjaGFtcC4iDkduU19FeTFBS3lpakRN",
+                  "stars.type": "2",
+                  "stars.version": "sync.server.Chrome40"
+               },
+               "name": "Getting Started with Programming | Codecademy",
+               "type": "url",
+               "url": "http://www.codecademy.com/courses/getting-started-v2/2/5?curriculum_id=506324b3a7dffd00020bf661"
+            }, {
+               "date_added": "13067283575996754",
+               "id": "20",
+               "meta_info": {
+                  "stars.id": "ssc_f84d69ad6af2e370",
+                  "stars.version": "sync.server.Chrome40"
+               },
+               "name": "CS313: Operating Systems Concepts with Java 8e",
+               "type": "url",
+               "url": "http://classes.myplace.strath.ac.uk/mod/folder/view.php?id=409400"
+            }, {
+               "date_added": "13067283575997477",
+               "id": "21",
+               "meta_info": {
+                  "stars.id": "ssc_21dac87243a2b836",
+                  "stars.version": "sync.server.Chrome40"
+               },
+               "name": "GeometryReference",
+               "type": "url",
+               "url": "https://local.cis.strath.ac.uk/teaching/ug/classes/52.361murray/Gizmoball/index.html"
+            }, {
+               "date_added": "13067283575998101",
+               "id": "22",
+               "meta_info": {
+                  "stars.flags": "5",
+                  "stars.id": "ssc_7f0b18936a8917b3",
+                  "stars.version": "sync.server.Chrome40"
+               },
+               "name": "ACE3 (3).pdf",
+               "type": "url",
+               "url": "file:///Users/rossmcpherson/Downloads/ACE3%20(3).pdf"
+            }, {
+               "date_added": "13067283575998738",
+               "id": "23",
+               "meta_info": {
+                  "stars.flags": "4",
+                  "stars.id": "ssc_c55f5bbfe457fe46",
+                  "stars.imageData": "Cg5TMGlIMTdrc21lbnNXTRJpCmFodHRwczovL2dpZ2FvbTIuZmlsZXMud29yZHByZXNzLmNvbS8yMDE1LzAxL3NodXR0ZXJzdG9ja18xNDQ0Nzk4MDAuanBnP3F1YWxpdHk9ODAmc3RyaXA9YWxsJnc9ODA0EOABGOABGmMKW2h0dHA6Ly90My5nc3RhdGljLmNvbS9pbWFnZXM/cT10Ym46QU5kOUdjVEQ5Nk43WEE0dERnVHNVR2xqaEY2OHFOY0IwM2x2S2RVaWpON1RZZzFHM2RyaGEybTYQ4AEY4AEiEAgBEOABGOABQgYSBIACAP8o05qMxJ64zAI=",
+                  "stars.pageData": "EuACR29vZ2xlIGVtcGxveXMgc29tZSBvZiB0aGUgd29ybGTigJlzIHNtYXJ0ZXN0IHJlc2VhcmNoZXJzIGluIGRlZXAgbGVhcm5pbmcgYW5kIGFydGlmaWNpYWwgaW50ZWxsaWdlbmNlLCBzbyBpdOKAmXMgbm90IGEgYmFkwqBpZGVhIHRvIGxpc3RlbiB0byB3aGF0IHRoZXkgaGF2ZSB0byBzYXkgYWJvdXQgdGhlIHNwYWNlLiBPbmUgb2YgdGhvc2UgcmVzZWFyY2hlcnMsIHNlbmlvciByZXNlYXJjaCBzY2llbnRpc3TCoEdyZWcgQ29ycmFkbywgc3Bva2UgYXQgUkU6V09SS+KAmXMgRGVlcCBMZWFybmluZyBTdW1taXQgb24gVGh1cnNkYXkgaW4gU2FuIEZyYW5jaXNjbyBhbmQgZ2F2ZSBzb21lIGFkdmljZSBvbiB3aGVuLOKApiIOV2lmaVY5ZFpTSFFuWE0=",
+                  "stars.type": "2"
+               },
+               "name": "New to deep learning? Here are 4 easy lessons from Google — Tech News and Analysis",
+               "type": "url",
+               "url": "https://gigaom.com/2015/01/29/new-to-deep-learning-here-are-4-easy-lessons-from-google/#"
+            }, {
+               "date_added": "13067283575999366",
+               "id": "24",
+               "meta_info": {
+                  "stars.flags": "5",
+                  "stars.id": "ssc_b5bbd09d7ebdeaef",
+                  "stars.pageData": "Ig5maDFhTFRLUUdGc08tTQ==",
+                  "stars.type": "2"
+               },
+               "name": "Bitwise AND, OR, XOR and NOT Operators and Bit Masks",
+               "type": "url",
+               "url": "http://www.vipan.com/htdocs/bitwisehelp.html"
+            }, {
+               "date_added": "13067283576000108",
+               "id": "25",
+               "meta_info": {
+                  "stars.flags": "5",
+                  "stars.id": "ssc_c69b7580fc60664d",
+                  "stars.pageData": "Ig5vM3VDenhGYk51MEdBTQ==",
+                  "stars.type": "2"
+               },
+               "name": "Bitwise and Bit Shift Operators (The Java™ Tutorials > Learning the Java Language > Language Basics)",
+               "type": "url",
+               "url": "http://docs.oracle.com/javase/tutorial/java/nutsandbolts/op3.html"
+            }, {
+               "date_added": "13067283576001089",
+               "id": "26",
+               "meta_info": {
+                  "stars.id": "ssc_9cba2aaf4f15b604",
+                  "stars.imageData": "Cg41TlEwZ3kxRDd5RVNOTRJWCk5odHRwOi8vY2RuLnNzdGF0aWMubmV0L3N0YWNrb3ZlcmZsb3cvaW1nL2FwcGxlLXRvdWNoLWljb25AMi5wbmc/dj1mZGU2NWE1YTc4YzYQvAIYvAIaYwpbaHR0cDovL3QwLmdzdGF0aWMuY29tL2ltYWdlcz9xPXRibjpBTmQ5R2NTZVJBbDBDZWJtSWxTeldpa0UwYnRpWXdvRXo0ejZxcGlmNGt0SjYzaWM0VG4wTzRkTxDhARjhASIQCAEQ4QEY4QFCBhIEv7d+/yi4y87EjrnMAg==",
+                  "stars.isSynced": "true",
+                  "stars.pageData": "Ig5Eb0JkTDc2WEpsckxZTQ==",
+                  "stars.type": "2"
+               },
+               "name": "Convert integer into byte array (Java) - Stack Overflow",
+               "type": "url",
+               "url": "http://stackoverflow.com/questions/1936857/convert-integer-into-byte-array-java"
+            }, {
+               "date_added": "13067283576001962",
+               "id": "27",
+               "meta_info": {
+                  "stars.flags": "5",
+                  "stars.id": "ssc_09e4385718d8cb3c",
+                  "stars.pageData": "Ig5UZkJuTWd1dVFFTmhMTQ==",
+                  "stars.type": "2"
+               },
+               "name": "Byte (Java Platform SE 8 )",
+               "type": "url",
+               "url": "http://docs.oracle.com/javase/8/docs/api/java/lang/Byte.html"
+            }, {
+               "date_added": "13067283576002688",
+               "id": "28",
+               "meta_info": {
+                  "stars.flags": "4",
+                  "stars.id": "ssc_a0ba3064f14aa093",
+                  "stars.imageData": "Cg5DTXNRZmsxbUFwVlhSTRIqCiJodHRwOi8vaS5zdGFjay5pbWd1ci5jb20vUzVrQWQucG5nEMkGGO8BGmIKW2h0dHA6Ly90MC5nc3RhdGljLmNvbS9pbWFnZXM/cT10Ym46QU5kOUdjUXJXVi1oRFl1NThmUTZ0MVNfRXN5clFUbmtZQ1ZlZ3NwVVFsZGUzZ2ptSlZFdVg5ZmcQpgMYdyIdCAEQpgMYdyCVPEIGEgSAAAAASglpbWFnZS9wbmc=",
+                  "stars.pageData": "Ig5Ka1BfOWNHSHlIclFTTQ==",
+                  "stars.type": "2"
+               },
+               "name": "bitwise operators - An example of a bit-shift operation in Java - Stack Overflow",
+               "type": "url",
+               "url": "http://stackoverflow.com/questions/3312853/an-example-of-a-bit-shift-operation-in-java"
+            }, {
+               "date_added": "13067283576003471",
+               "id": "29",
+               "meta_info": {
+                  "stars.flags": "5",
+                  "stars.id": "ssc_21ae35f75148a22a",
+                  "stars.pageData": "Ig5rNG9XOElQVGk0YU5MTQ==",
+                  "stars.type": "2"
+               },
+               "name": "Creating and Running a Test Case | Android Developers",
+               "type": "url",
+               "url": "https://developer.android.com/training/activity-testing/activity-basic-testing.html"
+            }, {
+               "date_added": "13067283576004607",
+               "id": "30",
+               "meta_info": {
+                  "stars.id": "ssc_f9ef5e4455099cf8",
+                  "stars.imageData": "Cg5QVTU0QU02R3lNaERBTRLDAQq6AWh0dHA6Ly93d3cubmJjLmNvbS9zaXRlcy9uYmN1bmJjL2ZpbGVzL2ZpbGVzL3N0eWxlcy9uYmNfdmlkZW9fY2Fyb3VzZWxfbWVkaXVtL3B1YmxpYy9pbWFnZXMvMjAxNC8xMS8xNy82ZDFhNGIxMjAzOWMyMDg3MzFjYTFhNjhmNzUzMGRiOV82NTIwZTBjNGM5OGU2MDljNGMxZWZjZDNlODA1NjMyYy5qcGc/aXRvaz1Ud3FvVjFOUBDeAhjFARpjCltodHRwOi8vdDEuZ3N0YXRpYy5jb20vaW1hZ2VzP3E9dGJuOkFOZDlHY1FJanR3cGpiSGJPdzhSLUF0bkNLQkcwWFg2UDZ0bERnVk9LcUktbk9GamtOMDdoclVqEJgCGJ0BIh8IARCYAhidASDrPUIGEgQQAZirSgppbWFnZS9qcGVn",
+                  "stars.pageData": "EkpUZW1wZXJzIGZsYXJlIGFzIExlc2xpZSBhbmQgUm9uIHJlZmluZSB0aGVpciBwaXRjaGVzIGZvciB0aGUgTmV3cG9ydCBsYW5kLiIOQU9HcngxTEIwTUlwSk0=",
+                  "stars.type": "2",
+                  "stars.version": "sync.server.Chrome44"
+               },
+               "name": "William Henry Harrison | Video | Parks and Recreation | NBC",
+               "type": "url",
+               "url": "http://www.nbc.com/parks-and-recreation/video/william-henry-harrison/2840397"
+            }, {
+               "date_added": "13067283576005000",
+               "id": "31",
+               "meta_info": {
+                  "stars.id": "ssc_0bdf41f9c43351c7",
+                  "stars.imageData": "Cg5FeXp2SjJrRW4yUUthTRI3Ci9odHRwOi8vaS55dGltZy5jb20vdmkvUjRhalEtZm9qMlEvbXFkZWZhdWx0LmpwZxCAAhiQARpjCltodHRwOi8vdDMuZ3N0YXRpYy5jb20vaW1hZ2VzP3E9dGJuOkFOZDlHY1FmN2MyOGVPamV0d2hrMUNudGJzU0RQRUhiV092Y1E1Q3RrckFvSEx0WjhPRDRGeE5iEIACGJABIhAIARCAAhiQAUIGEgSWBXxiKL/6yqnU1MwC",
+                  "stars.isSynced": "true",
+                  "stars.pageData": "Ig52elA2d3ViUVdKcjd1TQ==",
+                  "stars.type": "2"
+               },
+               "name": "YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/"
+            } ],
+            "date_added": "13099710059616905",
+            "date_modified": "13099710059616906",
+            "id": "10",
+            "meta_info": {
+               "stars.id": "ssf_87e6f78a847701c4",
+               "stars.version": "sync.server.Chrome40"
+            },
+            "name": "lol",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13095995569091888",
+               "id": "12",
+               "name": "ProjI",
+               "type": "url",
+               "url": "https://github.com/nodemcu/nodemcu-devkit/wiki/Getting-Started-on-OSX"
+            }, {
+               "date_added": "13098238742271998",
+               "id": "13",
+               "name": "Reading Watt",
+               "type": "url",
+               "url": "http://openenergymonitor.blogspot.co.uk/2012/08/reading-watt-hour-data-from-elster.html"
+            }, {
+               "date_added": "13098372532522031",
+               "id": "14",
+               "name": "ESP layout",
+               "type": "url",
+               "url": "http://esp8266internetofthings.blogspot.co.uk/2015/10/how-to-flash-at-commands-firmware-in.html"
+            }, {
+               "date_added": "13098503806159182",
+               "id": "15",
+               "name": "libcoap: C-Implementation of CoAP / Mailing Lists",
+               "type": "url",
+               "url": "http://sourceforge.net/p/libcoap/mailman/libcoap-developers/?viewmonth=201509"
+            }, {
+               "date_added": "13098753752237951",
+               "id": "16",
+               "name": "How to build a CoAP message and send it to Internet using FreeRTOS on ESP8266.",
+               "type": "url",
+               "url": "http://www.jollen.org/blog/2016/01/build-coap-message-freertos-esp8266.html"
+            } ],
+            "date_added": "13099710059617208",
+            "date_modified": "13099710059617208",
+            "id": "11",
+            "name": "Proji",
+            "type": "folder"
+         } ],
+         "date_added": "13099708198434588",
+         "date_modified": "13067283553828000",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [ {
+            "date_added": "13074906939339000",
+            "id": "6",
+            "meta_info": {
+               "stars.id": "c_88rsi94r2shh",
+               "stars.imageData": "Cg5GSExZR0NidGtjbDdUTRJ6CnJodHRwOi8vaWEubWVkaWEtaW1kYi5jb20vaW1hZ2VzL00vTVY1Qk1UQXlOelF5TlRjd05qVmVRVEplUVdwd1oxNUJiV1UzTURBd09UUTROemtALl9WMV9TWTMxN19DUjAsMCwyMTQsMzE3X0FMXy5qcGcQ1gEYvQIaYwpbaHR0cDovL3QwLmdzdGF0aWMuY29tL2ltYWdlcz9xPXRibjpBTmQ5R2NRU1dPWF9YV01STlRVUTBONE85eWt3M21DYlAtRW1ILXlPdFVPLWNFaEhfWGlobmxRMRCrARj9ASIfCAEQqwEY/QEgpzZCBhIEnH1yfEoKaW1hZ2UvanBlZw==",
+               "stars.note": "",
+               "stars.pageData": "EqQCRGlyZWN0ZWQgYnkgUm9sYW5kIEVtbWVyaWNoLiAgV2l0aCBDaGFubmluZyBUYXR1bSwgSmFtaWUgRm94eCwgTWFnZ2llIEd5bGxlbmhhYWwsIEphc29uIENsYXJrZS4gV2hpbGUgb24gYSB0b3VyIG9mIHRoZSBXaGl0ZSBIb3VzZSB3aXRoIGhpcyB5b3VuZyBkYXVnaHRlciwgYSBDYXBpdG9sIHBvbGljZW1hbiBzcHJpbmdzIGludG8gYWN0aW9uIHRvIHNhdmUgaGlzIGNoaWxkIGFuZCBwcm90ZWN0IHRoZSBwcmVzaWRlbnQgZnJvbSBhIGhlYXZpbHkgYXJtZWQgZ3JvdXAgb2YgcGFyYW1pbGl0YXJ5IGludmFkZXJzLiIOZTduc1NTT1M2dWhlaU0=",
+               "stars.type": "2",
+               "stars.version": "sync.server.Chrome39"
+            },
+            "name": "White House Down (2013) - IMDb",
+            "type": "url",
+            "url": "http://www.imdb.com/title/tt2334879/"
+         }, {
+            "date_added": "13075782559254000",
+            "id": "7",
+            "meta_info": {
+               "stars.id": "c_hwq4i9j8eclh",
+               "stars.imageData": "Cg5YYWpUNmREREhvSkFBTRIrCiNodHRwczovL2dpdGh1Yi5jb20vd2luZG93cy10aWxlLnBuZxCABBiABBpjCltodHRwOi8vdDEuZ3N0YXRpYy5jb20vaW1hZ2VzP3E9dGJuOkFOZDlHY1NPdHh2dzNwelcxTFlWWVpfMEREQVlEa0JicnByOTdOQ2R6aW91Skp0ZGRPaDJXdm12EOEBGOEBIhAIARDhARjhAUIGEgSAAgD/",
+               "stars.note": "",
+               "stars.pageData": "EnBkamFuZ28tZHluYW1pYy1mb3Jtc2V0IC0gQSBqUXVlcnkgcGx1Z2luIHRoYXQgYWxsb3dzIHlvdSBkeW5hbWljYWxseSBhZGQgbmV3IGZvcm1zIHRvIGEgcmVuZGVyZWQgZGphbmdvIGZvcm1zZXQu",
+               "stars.type": "2",
+               "stars.version": "sync.server.Chrome39"
+            },
+            "name": "django-dynamic-formset/formset-table.html at master · elo80ka/django-dynamic-formset",
+            "type": "url",
+            "url": "https://github.com/elo80ka/django-dynamic-formset/blob/master/demo/templates/example/formset-table.html"
+         } ],
+         "date_added": "13099708198434598",
+         "date_modified": "13075782559254000",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13099708198434599",
+         "date_modified": "0",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}
